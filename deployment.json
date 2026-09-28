@@ -1,0 +1,11 @@
+{
+  "account": "warnedwarn",
+  "network": "StudioNet",
+  "contractAddress": "0x95c8D011dE4C6ccB33fD7e575B0D5385AcB3eC14",
+  "deploymentTransaction": "0x899268a4f6e7fa66c525b7e60edca5b5fb96cc7c7a29c0e6b89f015eb49b7fc3",
+  "deploymentConsensus": "MAJORITY_AGREE",
+  "deploymentExecution": "SUCCESS",
+  "sourceSha256": "8ce2b478097654f4b03d3bc2ea109cf0a6536ef256f527b84d73245d18db503e",
+  "repository": "https://github.com/warnedwarn/faultline-atlas",
+  "publicSite": "https://faultline-atlas.pages.dev/"
+}
